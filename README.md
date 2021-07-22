@@ -1,1 +1,1 @@
-https://github-esicune.github.io/rsschool-cv/cv
+https://esicune.github.io/rsschool-cv/cv
