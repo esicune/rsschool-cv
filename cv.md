@@ -1,21 +1,41 @@
-#Marat Vankovich#
-JavaScript Developer
-+375 33 612 83 39 marat-x@bk.ru Hlybokaye, Belarus
+Marat Vankovich
+================================================================================================
+## *JavaScript Developer*
+:telephone_receiver: +375 33 612 83 39 | :e-mail: marat-x@bk.ru | :world_map: Hlybokaye, Belarus
+---------------------------------------|------------------------|--------------------------------
 
-EDUCATION                   PASSIONS
-JavaScript Developer        Swimming
-SkillUp School  2020-2021   Indoor Soccer
-Minsk, Belarus              Cycling
+EDUCATION                 |  PASSIONS
+--------------------------|-------------------------
+JavaScript Developer      |  :swimmer: Swimming
+SkillUp School  2020-2021 |  :soccer: Indoor Soccer
+Minsk, Belarus            |  :bicyclist: Cycling
 
-SKILLS                      FIND ME ONLINE
-html, css, bootstrap,       github
-javascript, nodejs, react,  Linkedin
-git
+### SKILLS                      
+------------------------------------------------------
+html, css, javascript, nodejs, react, git, bootstrap
 
-EXPERIENCE                  MY LIFE PHILOSOPHY
+### FIND ME ONLINE
+------------------------------------------------------
+<img src="https://www.stackbuilders.com/assets/img/github-icon-hover.png" alt="github" width="20"/> [GitHub - profile](https://github.com/esicune) 
 
-LANGUAGES
-Russian Native
-English Intermediate
+<img src="https://www.pngall.com/wp-content/uploads/2016/07/Linkedin-PNG-Picture-180x180.png" alt="linkedid" width="20"/> [Linkedin - my profile](https://www.linkedin.com/in/marat-vankovich-1761a8208/)
 
+### LANGUAGES     
+------------------------------------------------------   
+* Belarussian Native        
+* Russian Native          
+* English Intermediate    
 
+### MY LIFE PHILOSOPHY
+---------------------------------------------------------
+> The meaning of life is not simply to exist, to survive,
+> 
+> but to move ahead, to go up, to achieve, to conquer.
+> 
+> ― Arnold Schwarzenegger
+
+### EXPERIENCE                 
+---------------------------------------------------
+Looking for experience in new skills for me.
+
+I want to change my occupation from finance to IT sector.                         
