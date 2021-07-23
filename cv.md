@@ -1,8 +1,10 @@
 Marat Vankovich
 ================================================================================================
 ## *JavaScript Developer*
-:telephone_receiver: +375 33 612 83 39 | :e-mail: marat-x@bk.ru | :world_map: Hlybokaye, Belarus
----------------------------------------|------------------------|--------------------------------
+------------------------------------------------------------------------------------------------
+:telephone_receiver: +375 33 612 83 39 
+:e-mail: marat-x@bk.ru
+:world_map: Hlybokaye, Belarus
 
 EDUCATION                 |  PASSIONS
 --------------------------|-------------------------
@@ -12,13 +14,19 @@ Minsk, Belarus            |  :bicyclist: Cycling
 
 ### SKILLS                      
 ------------------------------------------------------
-html, css, javascript, nodejs, react, git, bootstrap
+* html
+* css
+* javascript
+* nodejs
+* react
+* git
+* bootstrap
 
 ### FIND ME ONLINE
 ------------------------------------------------------
-<img src="https://www.stackbuilders.com/assets/img/github-icon-hover.png" alt="github" width="20"/> [GitHub - profile](https://github.com/esicune) 
+[GitHub - profile](https://github.com/esicune) 
 
-<img src="https://www.pngall.com/wp-content/uploads/2016/07/Linkedin-PNG-Picture-180x180.png" alt="linkedid" width="20"/> [Linkedin - my profile](https://www.linkedin.com/in/marat-vankovich-1761a8208/)
+[Linkedin - my profile](https://www.linkedin.com/in/marat-vankovich-1761a8208/)
 
 ### LANGUAGES     
 ------------------------------------------------------   
