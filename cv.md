@@ -1,19 +1,16 @@
 Marat Vankovich
 ================================================================================================
 ## *JavaScript Developer*
-------------------------------------------------------------------------------------------------
-:telephone_receiver: +375 33 612 83 39 
-:e-mail: marat-x@bk.ru
-:world_map: Hlybokaye, Belarus
+📱 +375 33 612 83 39 
+📧 marat-x@bk.ru
+🗺️ Hlybokaye, Belarus
 
-EDUCATION                 |  PASSIONS
---------------------------|-------------------------
-JavaScript Developer      |  :swimmer: Swimming
-SkillUp School  2020-2021 |  :soccer: Indoor Soccer
-Minsk, Belarus            |  :bicyclist: Cycling
+### EDUCATION              
+JavaScript Developer - SkillUp School 2020-2021 Minsk, Belarus
 
+https://programminghub.io/ complited courses (html, css, javascript, advanced JS, git, Node JS)
+   
 ### SKILLS                      
-------------------------------------------------------
 * html
 * css
 * javascript
@@ -22,20 +19,22 @@ Minsk, Belarus            |  :bicyclist: Cycling
 * git
 * bootstrap
 
+### PASSIONS
+🏊‍♂️ Swimming
+⚽ Indoor Soccer
+🚴‍♂️ Cycling
+
 ### FIND ME ONLINE
-------------------------------------------------------
 [GitHub - profile](https://github.com/esicune) 
 
 [Linkedin - my profile](https://www.linkedin.com/in/marat-vankovich-1761a8208/)
 
 ### LANGUAGES     
-------------------------------------------------------   
 * Belarussian Native        
 * Russian Native          
 * English Intermediate    
 
 ### MY LIFE PHILOSOPHY
----------------------------------------------------------
 > The meaning of life is not simply to exist, to survive,
 > 
 > but to move ahead, to go up, to achieve, to conquer.
@@ -43,7 +42,9 @@ Minsk, Belarus            |  :bicyclist: Cycling
 > ― Arnold Schwarzenegger
 
 ### EXPERIENCE                 
----------------------------------------------------
-Looking for experience in new skills for me.
+Looking for experience in new skills.
 
-I want to change my occupation from finance to IT sector.                         
+I want to change my occupation from finance to IT sector.      
+
+### SOME CODING EXAMPLES
+[JSfiddle.net - my profile](https://jsfiddle.net/user/Marik_v99/fiddles/)
