@@ -1,1 +1,1 @@
-# rsschool-cv
+https://esicune.github.io/rsschool-cv/
