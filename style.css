@@ -1,0 +1,105 @@
+:root {
+    --ff-title: 'Merienda', cursive;
+    --ff-text: 'Antic Slab', serif;
+}
+
+header,
+footer {
+    background: linear-gradient(to right, #53c2e7, #0606bede);
+}
+
+h1,
+h3,
+h4 {
+    font-family: var(--ff-title);
+}
+
+figure > img {
+    border-radius: 50%;
+    border: 5px solid #00d9ffad;
+}
+
+p,
+li,
+main a {
+    font-family: var(--ff-text);
+}
+
+footer {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+main {
+    display: flex;
+}
+
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+body > div {
+    margin: 0 auto;
+    width: 900px;
+}
+
+.rs-logo {
+    background-image: url("https://rs.school/images/rs_school_js.svg");
+    background-repeat: no-repeat;
+    display: block;
+    width: 150px;
+    height: 50px;
+}
+
+header > div {
+    margin-left: 35px;
+}
+
+h1,
+header > div > h3,
+footer,
+footer > div > a {
+    color: #ffffff;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+aside {
+    background-color: #00000018;
+    flex-shrink: 0;
+    padding: 25px;
+}
+
+main > section {
+    background-color: #0000000a;
+    padding: 25px;
+}
+
+main h3 {
+    color: #285be7;
+}
+
+section ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+  
+section ul li {
+    padding-left: 16px;
+}
+  
+section  ul li::before {
+    content: "\2b50";
+    padding-right: 8px;
+    color: #285be7;
+}
